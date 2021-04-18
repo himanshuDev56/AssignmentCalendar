@@ -1,5 +1,5 @@
 console.log("js enabled");
-//working on button classic
+//working on table classic
 
 
 // From the window to the event target parent: this is the capture phase
