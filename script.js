@@ -204,7 +204,7 @@ let i=0;
 let div=document.createElement('div');
 div.classList.add("table-div");
 let textStart=document.createElement('p');
-textStart.textContent="Hi I am calendar To get started Please select the Month or    ";
+textStart.textContent="Hi, To get started Please select the Month or    ";
 let buttonLets=document.createElement('button');
 buttonLets.textContent="Click here";
 buttonLets.addEventListener("click",(event)=>{
